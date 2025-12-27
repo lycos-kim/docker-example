@@ -17,7 +17,6 @@ Node.js 예제 프로젝트를 기준으로 작성되었습니다.
 
 ## 🔹 폴더 구조 예시
 docker-example/
-├─ Jenkinsfile
 ├─ Dockerfile
 ├─ package.json
 ├─ index.js
