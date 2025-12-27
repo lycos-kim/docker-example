@@ -1,14 +1,23 @@
 {
   "name": "docker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demonstrates how to pack a nodejs app into a docker container",
+  "keywords": [],
+  "homepage": "https://github.com/lycos-kim/docker-example#readme",
+  "bugs": {
+    "url": "https://github.com/lycos-kim/docker-example/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lycos-kim/docker-example.git"
+  },
+  "license": "ISC",
+  "author": "lycos-kim",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
   }
